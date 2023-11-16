@@ -18,14 +18,36 @@ The data cleaning was done on SQL
 ![Screenshot 2023-11-16 135316](https://github.com/AdekunleOjo/Cyber-security-salaries/assets/55541028/5e88094c-8f5f-4274-824a-988ba64c287c)
 
 I corrected some values by ranaming it to their correct names in some columns
+## Data visualization
 ## Business Questions and Answers
 ## 1. What is the total numbers of job title?
 ## Solution
 ![Screenshot 2023-11-16 141740](https://github.com/AdekunleOjo/Cyber-security-salaries/assets/55541028/e0182d55-c43b-4260-9319-0bb79b0cf353)
 ## Output
 ![Screenshot 2023-11-16 142432](https://github.com/AdekunleOjo/Cyber-security-salaries/assets/55541028/712914eb-0cbc-4fa7-93c9-c0eb9d94ad18)
-## Insights
+## Insight
 Security Engineer, Security Analyst, Dev SecOps Engineer has the most jobs, as Security Engineer topped the chart with 1761 Security Engineer.
-## 2.
+## 2. Find the details of the highest paid employee per year
+## Solution
+![Screenshot 2023-11-16 143615](https://github.com/AdekunleOjo/Cyber-security-salaries/assets/55541028/06b0269f-bc38-4593-9c6a-597b3c7be9e5)
+## Output
+![Screenshot 2023-11-16 144044](https://github.com/AdekunleOjo/Cyber-security-salaries/assets/55541028/2331fc16-b865-453e-95ee-595c0ecac938)
+## Insight
+- Head of Security got the highest salary in 2023
+- Staff Security got the highest salary for both 2022 and 2021
+- Ethical Hacker got the highest salary in 2022
+## 3. What is the average salary for each experirence level
+## Solution
+![Screenshot 2023-11-16 144824](https://github.com/AdekunleOjo/Cyber-security-salaries/assets/55541028/a7fa2175-dd26-4276-be36-06226cd6a990)
+## Output
+![Screenshot 2023-11-16 145103](https://github.com/AdekunleOjo/Cyber-security-salaries/assets/55541028/c9f3cf8a-67bf-46b0-8335-35487c7f6333)
+## 4. What is the average salary for each job title
+## Solution
+![Screenshot 2023-11-16 145904](https://github.com/AdekunleOjo/Cyber-security-salaries/assets/55541028/ee43e851-a2b5-425f-88a9-6544a40f850a)
+## Output
+![Screenshot 2023-11-16 150300](https://github.com/AdekunleOjo/Cyber-security-salaries/assets/55541028/e69b8a4f-3bc3-4879-8881-36690ea3b54b)
+
+
+
 
 
