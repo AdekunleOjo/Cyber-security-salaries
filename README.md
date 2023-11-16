@@ -14,3 +14,11 @@ The data can be gotten here https://www.kaggle.com/datasets/deepcontractor/cyber
 - Data Visualization
 ## Data Cleaning
 The data cleaning was done on SQL 
+
+![Screenshot 2023-11-16 135316](https://github.com/AdekunleOjo/Cyber-security-salaries/assets/55541028/5e88094c-8f5f-4274-824a-988ba64c287c)
+
+I corrected some values by ranaming it to their correct names in some columns
+## Business Questions and Answers
+## What is the total numbers of job title?
+## Solution
+
