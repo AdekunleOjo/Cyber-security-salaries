@@ -19,6 +19,13 @@ The data cleaning was done on SQL
 
 I corrected some values by ranaming it to their correct names in some columns
 ## Business Questions and Answers
-## What is the total numbers of job title?
+## 1. What is the total numbers of job title?
 ## Solution
+![Screenshot 2023-11-16 141740](https://github.com/AdekunleOjo/Cyber-security-salaries/assets/55541028/e0182d55-c43b-4260-9319-0bb79b0cf353)
+## Output
+![Screenshot 2023-11-16 142432](https://github.com/AdekunleOjo/Cyber-security-salaries/assets/55541028/712914eb-0cbc-4fa7-93c9-c0eb9d94ad18)
+## Insights
+Security Engineer, Security Analyst, Dev SecOps Engineer has the most jobs, as Security Engineer topped the chart with 1761 Security Engineer.
+## 2.
+
 
