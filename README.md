@@ -19,6 +19,8 @@ The data cleaning was done on SQL
 
 I corrected some values by ranaming it to their correct names in some columns
 ## Data visualization
+![Screenshot 2023-11-17 085526](https://github.com/AdekunleOjo/Cyber-security-salaries/assets/55541028/375a8cff-77ff-4d4c-a92e-696bfd448ee2)
+
 ## Business Questions and Answers
 ## 1. What is the total numbers of job title?
 ## Solution
