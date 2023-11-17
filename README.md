@@ -12,12 +12,7 @@ The data can be gotten here https://www.kaggle.com/datasets/deepcontractor/cyber
 - Queries and SubQueries
 - Aggregations and Joins
 - Data Visualization
-## Data Cleaning
-The data cleaning was done on SQL 
 
-![Screenshot 2023-11-16 135316](https://github.com/AdekunleOjo/Cyber-security-salaries/assets/55541028/5e88094c-8f5f-4274-824a-988ba64c287c)
-
-I corrected some values by ranaming it to their correct names in some columns
 ## Data visualization
 ![Screenshot 2023-11-17 085526](https://github.com/AdekunleOjo/Cyber-security-salaries/assets/55541028/375a8cff-77ff-4d4c-a92e-696bfd448ee2)
 
@@ -46,15 +41,18 @@ Security Engineer, Security Analyst, Dev SecOps Engineer has the most job titles
 ## 4. What is the average salary for each job title
 ## Solution
 ![Screenshot 2023-11-16 145904](https://github.com/AdekunleOjo/Cyber-security-salaries/assets/55541028/ee43e851-a2b5-425f-88a9-6544a40f850a)
-## Insight
-Threat Intelligence Response Analyst is the most paid job title with average salary of $260,000 per annum
 ## Output
 ![Screenshot 2023-11-16 150300](https://github.com/AdekunleOjo/Cyber-security-salaries/assets/55541028/e69b8a4f-3bc3-4879-8881-36690ea3b54b)
+## Insight
+Threat Intelligence Response Analyst is the most paid job title with average salary of $260,000 per annum
 ## 5. find the job title's average salary greater than the average salary for of all job title
 ## soultion
 ![Screenshot 2023-11-17 090234](https://github.com/AdekunleOjo/Cyber-security-salaries/assets/55541028/99ad933e-961c-450c-bbf1-8d20a483b7f6)
 ## Output
 ![Screenshot 2023-11-17 090404](https://github.com/AdekunleOjo/Cyber-security-salaries/assets/55541028/21982930-06ce-4a07-903f-617393b9344c)
+
+# Conclusion
+In analyzing the salaries of cyber security professionals from 2020 to 2023, several conclusions have be drawn. Firstly, there has been a consistent upward trend in cyber security salaries over this period. With the ever-increasing importance of protecting data and systems from cyber threats, the demand for skilled professionals in this field has grown significantly. As a result, professionals can expect to see substantial increases in their salaries as their skills and experience progress. Furthermore, certain roles within the cyber security field command higher salaries than others. For instance, positions such as Threat Intelligence Response AAnalyst, Staff Security Engineer, and Principal Application Security Engineer tend to offer higher compensation due to their specialized skill sets and responsibilities. In summary, the analysis of cyber security salaries from 2020 to 2023 reveals a consistent upward trend, with increased demand for skilled professionals and competitive compensation packages. Understanding the factors influencing these salaries can help professionals make informed decisions about their career paths and organizations plan for attracting and retaining top cyber security talent.
 
 
 
