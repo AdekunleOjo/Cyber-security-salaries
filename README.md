@@ -28,7 +28,7 @@ I corrected some values by ranaming it to their correct names in some columns
 ## Output
 ![Screenshot 2023-11-16 142432](https://github.com/AdekunleOjo/Cyber-security-salaries/assets/55541028/712914eb-0cbc-4fa7-93c9-c0eb9d94ad18)
 ## Insight
-Security Engineer, Security Analyst, Dev SecOps Engineer has the most jobs, as Security Engineer topped the chart with 1761 Security Engineer.
+Security Engineer, Security Analyst, Dev SecOps Engineer has the most job titles, as Security Engineer topped the list with 1761.
 ## 2. Find the details of the highest paid employee per year
 ## Solution
 ![Screenshot 2023-11-16 143615](https://github.com/AdekunleOjo/Cyber-security-salaries/assets/55541028/06b0269f-bc38-4593-9c6a-597b3c7be9e5)
@@ -46,6 +46,8 @@ Security Engineer, Security Analyst, Dev SecOps Engineer has the most jobs, as S
 ## 4. What is the average salary for each job title
 ## Solution
 ![Screenshot 2023-11-16 145904](https://github.com/AdekunleOjo/Cyber-security-salaries/assets/55541028/ee43e851-a2b5-425f-88a9-6544a40f850a)
+## Insight
+Threat Intelligence Response Analyst is the most paid job title with average salary of $260,000 per annum
 ## Output
 ![Screenshot 2023-11-16 150300](https://github.com/AdekunleOjo/Cyber-security-salaries/assets/55541028/e69b8a4f-3bc3-4879-8881-36690ea3b54b)
 ## 5. find the job title's average salary greater than the average salary for of all job title
