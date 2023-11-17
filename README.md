@@ -48,6 +48,13 @@ Security Engineer, Security Analyst, Dev SecOps Engineer has the most jobs, as S
 ![Screenshot 2023-11-16 145904](https://github.com/AdekunleOjo/Cyber-security-salaries/assets/55541028/ee43e851-a2b5-425f-88a9-6544a40f850a)
 ## Output
 ![Screenshot 2023-11-16 150300](https://github.com/AdekunleOjo/Cyber-security-salaries/assets/55541028/e69b8a4f-3bc3-4879-8881-36690ea3b54b)
+## 5. find the job title's average salary greater than the average salary for of all job title
+## soultion
+![Screenshot 2023-11-17 090234](https://github.com/AdekunleOjo/Cyber-security-salaries/assets/55541028/99ad933e-961c-450c-bbf1-8d20a483b7f6)
+## Output
+![Screenshot 2023-11-17 090404](https://github.com/AdekunleOjo/Cyber-security-salaries/assets/55541028/21982930-06ce-4a07-903f-617393b9344c)
+
+
 
 
 
